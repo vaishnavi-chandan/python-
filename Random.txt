@@ -1,0 +1,5 @@
+Hi! There 
+Using 
+file opertions.
+hello world!
+Bye!
